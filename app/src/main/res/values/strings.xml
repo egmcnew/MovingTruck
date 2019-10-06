@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovingTruck</string>
+    <string name="title">Moving Truck Rental</string>
+    <string name="pic1">Moving Truck</string>
+    <string name="truckImage">Truck Image</string>
+    <string name="input1">Truck Size</string>
+    <string name="input2">Miles</string>
+    <string name="but1">COMPUTE COST</string>
+    <string name="txtCost">Final Cost</string>
+    <string name="pic10">10</string>
+    <string name="pic17">17</string>
+    <string name="pic26">26</string>
+</resources>
